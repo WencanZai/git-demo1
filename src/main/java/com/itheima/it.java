@@ -10,5 +10,6 @@ public class it {
         System.out.println("这是版本4-hotfix1");
         System.out.println("这是版本6-hotfix2");
         System.out.println("这是版本7-hotfix3,产生合并冲突");
+        System.out.println("上传push更改");
     }
 }
