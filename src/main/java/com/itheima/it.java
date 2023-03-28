@@ -6,5 +6,6 @@ public class it {
         System.out.println("这是版本2-master2");
         System.out.println("这是版本3-master3");
         System.out.println("这是版本4-hotfix1");
+        System.out.println("这是版本6-hotfix2");
     }
 }
