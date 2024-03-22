@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T17:58:40.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="ky7ZjcggBhuvX8nYOcF1" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T18:04:53.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="Mu_vrz7vPDg79RMH6tnS" version="24.0.7" type="github">
   <diagram name="第 1 页" id="8ZyxCvQQUnWUfb6wx-6p">
     <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,19 +14,19 @@
           <mxGeometry x="455" y="325" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gDutIeHktBRD6DQdzzbq-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="395" width="120" height="460" as="geometry" />
+          <mxGeometry x="280" y="400" width="140" height="455" as="geometry" />
         </mxCell>
         <mxCell id="gDutIeHktBRD6DQdzzbq-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="395" width="120" height="460" as="geometry" />
+          <mxGeometry x="455" y="395" width="135" height="460" as="geometry" />
         </mxCell>
         <mxCell id="gDutIeHktBRD6DQdzzbq-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="395" width="120" height="460" as="geometry" />
         </mxCell>
         <mxCell id="gDutIeHktBRD6DQdzzbq-12" value="java进程1&lt;div&gt;JVM内存&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="425" width="100" height="20" as="geometry" />
+          <mxGeometry x="300" y="410" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gDutIeHktBRD6DQdzzbq-20" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="665" y="505" width="70" height="320" as="geometry" />
+          <mxGeometry x="665" y="500" width="70" height="320" as="geometry" />
         </mxCell>
         <mxCell id="gDutIeHktBRD6DQdzzbq-16" value="线程1&lt;div&gt;栈、寄存器、pc等&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gDutIeHktBRD6DQdzzbq-20">
           <mxGeometry width="70" height="60" as="geometry" />
@@ -44,13 +44,13 @@
           <mxGeometry x="240" y="285" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gDutIeHktBRD6DQdzzbq-39" value="java进程2&lt;div&gt;JVM内存&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="465" y="425" width="100" height="20" as="geometry" />
+          <mxGeometry x="475" y="410" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gDutIeHktBRD6DQdzzbq-40" value="进程3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="650" y="415" width="100" height="20" as="geometry" />
+          <mxGeometry x="650" y="410" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gDutIeHktBRD6DQdzzbq-41" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="480" y="505" width="70" height="320" as="geometry" />
+          <mxGeometry x="490" y="505" width="70" height="320" as="geometry" />
         </mxCell>
         <mxCell id="gDutIeHktBRD6DQdzzbq-42" value="线程1&lt;div&gt;栈、寄存器、pc等&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gDutIeHktBRD6DQdzzbq-41">
           <mxGeometry width="70" height="60" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry y="260" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gDutIeHktBRD6DQdzzbq-46" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="300" y="505" width="70" height="320" as="geometry" />
+          <mxGeometry x="320" y="505" width="70" height="320" as="geometry" />
         </mxCell>
         <mxCell id="gDutIeHktBRD6DQdzzbq-47" value="线程1&lt;div&gt;栈、寄存器、pc等&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gDutIeHktBRD6DQdzzbq-46">
           <mxGeometry width="70" height="60" as="geometry" />
@@ -79,7 +79,7 @@
         <mxCell id="gDutIeHktBRD6DQdzzbq-50" value="线程4&lt;div&gt;栈、寄存器、pc等&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gDutIeHktBRD6DQdzzbq-46">
           <mxGeometry y="260" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gDutIeHktBRD6DQdzzbq-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="gDutIeHktBRD6DQdzzbq-55">
+        <mxCell id="gDutIeHktBRD6DQdzzbq-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gDutIeHktBRD6DQdzzbq-9" target="gDutIeHktBRD6DQdzzbq-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="344" y="395" as="sourcePoint" />
             <mxPoint x="510" y="305" as="targetPoint" />
@@ -104,7 +104,7 @@
           <mxGeometry x="480" y="255" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gDutIeHktBRD6DQdzzbq-58" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#f20202;" vertex="1" parent="1">
-          <mxGeometry x="240" y="335" width="200" height="570" as="geometry" />
+          <mxGeometry x="240" y="333.75" width="215" height="572.5" as="geometry" />
         </mxCell>
         <mxCell id="gDutIeHktBRD6DQdzzbq-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="gDutIeHktBRD6DQdzzbq-58" target="gDutIeHktBRD6DQdzzbq-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -114,7 +114,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gDutIeHktBRD6DQdzzbq-61" value="&lt;span style=&quot;text-wrap: nowrap; font-size: 16px;&quot;&gt;java程序内存=jvm+本地内存&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
-          <mxGeometry x="10" y="500" width="200" height="70" as="geometry" />
+          <mxGeometry x="20" y="500" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gDutIeHktBRD6DQdzzbq-62" value="堆、方法区、执行引擎等" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="445" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gDutIeHktBRD6DQdzzbq-64" value="堆、方法区、执行引擎等" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="445" width="135" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
